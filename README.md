@@ -16,3 +16,4 @@ The first prototype:
 ## More information
 * [MicroGrid Connection Unit #1: Introduction](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/04/19/microgrid-connection-unit-1-introduction)
 * [MicroGrid Connection Unit #2: Design](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/04/29/microgrid-connection-unit-2-design)
+* [MicroGrid Connection Unit #3: First Prototype](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/09/microgrid-connection-unit-3-first-prototype)
