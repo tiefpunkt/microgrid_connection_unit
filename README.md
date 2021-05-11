@@ -14,6 +14,11 @@ The first prototype:
 ![Breadboard design](./images/breadboard.png)
 
 ## More information
+### Blog Posts as part of the "Design for a Cause" challenge
 * [MicroGrid Connection Unit #1: Introduction](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/04/19/microgrid-connection-unit-1-introduction)
 * [MicroGrid Connection Unit #2: Design](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/04/29/microgrid-connection-unit-2-design)
 * [MicroGrid Connection Unit #3: First Prototype](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/09/microgrid-connection-unit-3-first-prototype)
+* [MicroGrid Connection Unit #4: Current Measurement and finding 5 V on the Nano33 IoT](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/11/microgrid-connection-unit-4-current-measurement-and-finding-5-v-on-the-nano33-iot)
+
+### Other places
+* [hackaday.io project](https://hackaday.io/project/179713-microgrid-connection-unit)
