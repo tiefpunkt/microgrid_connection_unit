@@ -19,6 +19,9 @@ The first prototype:
 * [MicroGrid Connection Unit #2: Design](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/04/29/microgrid-connection-unit-2-design)
 * [MicroGrid Connection Unit #3: First Prototype](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/09/microgrid-connection-unit-3-first-prototype)
 * [MicroGrid Connection Unit #4: Current Measurement and finding 5 V on the Nano33 IoT](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/11/microgrid-connection-unit-4-current-measurement-and-finding-5-v-on-the-nano33-iot)
+* [MicroGrid Connection Unit #5: BLE on the Nano33 IoT](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/19/microgrid-connection-unit-5-ble-on-the-nano33-iot)
+* [MicroGrid Connection Unit #6: From 5V to 3.3V](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/25/microgrid-connection-unit-6-from-5v-to-33v)
+* [MicroGrid Connection Unit #7: OLED Display & automatic calibration](https://www.element14.com/community/community/design-challenges/design-for-a-cause-2021/blog/2021/05/27/microgrid-connection-unit-7-oled-display-automatic-calibration)
 
 ### Other places
 * [hackaday.io project](https://hackaday.io/project/179713-microgrid-connection-unit)
